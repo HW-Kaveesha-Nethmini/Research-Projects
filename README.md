@@ -21,7 +21,7 @@ I designed and deployed a complex, 10-server virtualized environment to simulate
 
 ---
 
-## ⚡ Phase 2: Offensive Security & Penetration Testing
+## Phase 2: Offensive Security & Penetration Testing
 Using the infrastructure built in Phase 1, I performed rigorous security auditing following the **PTES (Penetration Testing Execution Standard)**.
 
 ### Reconnaissance & Enumeration

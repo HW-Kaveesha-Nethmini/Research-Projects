@@ -1,7 +1,7 @@
 # Cyber Security Research & Hands-on Lab Portfolio
 **Researcher:** Kaveesha Nethmini.
 
-## Project Scope:** Comprehensive study of Offensive and Defensive Security Operations.
+#### Project Scope: Comprehensive study of Offensive and Defensive Security Operations.
 
 ## Project Overview
 This repository documents a deep-dive research project covering the full spectrum of penetration testing, from infrastructure setup to advanced exploit analysis. The project involves building complex virtual environments, performing vulnerability assessments, and implementing defensive controls.

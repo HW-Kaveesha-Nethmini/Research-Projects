@@ -1,6 +1,7 @@
 # Cyber Security Research & Hands-on Lab Portfolio
 **Researcher:** Kaveesha Nethmini.
-**Project Scope:** Comprehensive study of Offensive and Defensive Security Operations.
+
+## Project Scope:** Comprehensive study of Offensive and Defensive Security Operations.
 
 ## Project Overview
 This repository documents a deep-dive research project covering the full spectrum of penetration testing, from infrastructure setup to advanced exploit analysis. The project involves building complex virtual environments, performing vulnerability assessments, and implementing defensive controls.
@@ -15,7 +16,7 @@ This repository documents a deep-dive research project covering the full spectru
 ## Key Modules & Research Areas
 
 ### 1. Infrastructure & Cloud Setup
-*Deployed a multi-OS environment including Windows Server 2022 (Domain Controller), Kali Linux, Ubuntu, and various "vulnerable by design" targets like Metasploitable 2/3 and OWASP BWA.
+* Deployed a multi-OS environment including Windows Server 2022 (Domain Controller), Kali Linux, Ubuntu, and various "vulnerable by design" targets like Metasploitable 2/3 and OWASP BWA.
 * Configured custom virtual networks (LAB-ATTACK) to simulate isolated corporate environments.
 
 ### 2. Reconnaissance & OSINT (Passive/Active)
